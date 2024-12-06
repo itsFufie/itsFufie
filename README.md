@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋  You can call me Fufie, which is sort of my internet handle... I don't want to put my actual name here xD</h1>
 
 <h3 align="center">I am a Software Engineer focused on web development!</h3>
 
