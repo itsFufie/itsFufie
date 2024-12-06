@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋  You can call me Fufie, which is sort of my internet handle... I don't want to put my actual name here xD</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <h3 align="center">I am a Software Engineer focused on web development!</h3>
 
+-  🪪 You can call me Fufie, which is sort of my internet handle... I don't want to put my actual name here xD
 - 🛠️ As of the time of writing I worked mostly with Java, specially using frameworks such as Micronaut and Springboot, but my interests are sort of everywhere!
 
 - 🖥️ I am a Linux enthusiast and I can proudly say that I haven't used a windows or macOS machine in a few years! You will always see me trying to find an open-source linux native alternative to common softwares!
